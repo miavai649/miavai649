@@ -1,39 +1,35 @@
 ![Header](./e36ec678-7984-4cdd-8e4c-a3932772ff8e.gif)
+
 <h1 align="center">Hi 👋, I'm Mahmudul Haque Noor</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=miavai649&label=Profile%20views&color=0e75b6&style=flat" alt="miavai649" /> </p>
-
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Building+digital+dreams%2C+one+line+at+a+time;Turning+coffee+into+code+since+2023;MERN+stack+magician+in+the+making" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=I+am+a+MERN+Stack+Developer+%F0%9F%92%BB;I+build+full-stack+applications+with+passion+%F0%9F%9A%80;Let's+craft+something+amazing+together!+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=miavai649&label=Profile%20views&color=0e75b6&style=flat" alt="miavai649" /> </p>
 
 <h2 align="left">📊 GitHub Analytics</h2>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullahal5&theme=radical&hide_border=true&stroke=0000&background=0D1117&ring=00bfbf&fire=00bfbf&currStreakLabel=00bfbf" alt="Fahim's GitHub streak"/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=miavai649&theme=aura-dark&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 </p>
 
 <h2 align="left">🌐 Connect with Me</h2>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullah-al-fahim-7a5593286" target="_blank">
+  <a href="https://www.linkedin.com/in/noor2001/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.facebook.com/abdullahal.fahim.9421/" target="_blank">
+  <a href="https://www.facebook.com/mahmudulhaque.noor.1/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=abdullahalfahin183@gmail.com&su=Subject&body=Body&tf=cm">
-  <a href="https://discord.com/users/fahim4026" target="_blank">
+  <a href="https://discord.com/users/miavai649" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://porfolio-teal-omega.vercel.app" target="_blank">
+  <a href="https://noor-porfolio.web.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
